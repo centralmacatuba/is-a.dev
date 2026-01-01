@@ -4,7 +4,7 @@
     "email": "centralmacatuba@gmail.com"
   },
   "records": {
-    "NS": ["fred.ns.cloudflare.com", "magali.ns.cloudflare.com"]
+    "CNAME": "centralmacatuba.eu.org"
   },
   "proxied": false
 }
